@@ -1,0 +1,1 @@
+﻿.\DevOpsNetTools.Console.exe -n "http://mia38747sql403.apps.tmrk.corp/NuGetGalleryAcc/" -d "C:/Terremark/Apps/SmokeTest" -t "http://127.0.0.1:8081/" -k "E43CCF8EA916959225FEA555F3BDE" -f "Smoke" -e "AUT"
