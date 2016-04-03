@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOpsNetTools.Console", "DevOpsNetTools.Console\DevOpsNetTools.Console.csproj", "{2C20A61B-D9AE-44B0-9ED8-A71AA8FAF7DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOpsNetTools", "DevOpsNetTools\DevOpsNetTools.csproj", "{A9EC604A-07A0-4F7A-9817-8B313BB1686A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C20A61B-D9AE-44B0-9ED8-A71AA8FAF7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C20A61B-D9AE-44B0-9ED8-A71AA8FAF7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C20A61B-D9AE-44B0-9ED8-A71AA8FAF7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C20A61B-D9AE-44B0-9ED8-A71AA8FAF7DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9EC604A-07A0-4F7A-9817-8B313BB1686A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EC604A-07A0-4F7A-9817-8B313BB1686A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EC604A-07A0-4F7A-9817-8B313BB1686A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EC604A-07A0-4F7A-9817-8B313BB1686A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
